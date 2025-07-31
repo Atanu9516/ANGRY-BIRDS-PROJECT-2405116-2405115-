@@ -1,0 +1,1 @@
+iLoadImage(&bg, "assets/images/background.jpg");
